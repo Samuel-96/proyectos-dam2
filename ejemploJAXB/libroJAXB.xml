@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<libro>
+    <año>2010</año>
+    <autor>Brandon Sanderson</autor>
+    <editorial>Nova</editorial>
+    <id>1</id>
+    <precio>29.95</precio>
+    <titulo>Nacidos de la bruma</titulo>
+</libro>

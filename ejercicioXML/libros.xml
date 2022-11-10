@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xml>
+    <libros>
+        <libro>
+            <id>1</id>
+            <titulo>El camino de los reyes</titulo>
+            <precio>29.95</precio>
+            <autor>Brandon Sanderson</autor>
+            <año>2011</año>
+            <editorial>Nova</editorial>
+        </libro>
+        <libro>
+            <id>2</id>
+            <titulo>Dune</titulo>
+            <precio>19.95</precio>
+            <autor>Frank Herbert</autor>
+            <año>1965</año>
+            <editorial>Casa del libro</editorial>
+        </libro>
+        <libro>
+            <id>3</id>
+            <titulo>Espejismo</titulo>
+            <precio>12.95</precio>
+            <autor>Hugh Howey</autor>
+            <año>2013</año>
+            <editorial>minotauro</editorial>
+        </libro>
+    </libros>
+</xml>
